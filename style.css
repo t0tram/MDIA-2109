@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: darkorange;
+    box-sizing: border-box;
+    margin-top: 0%;
+}
+
+header {
+    color: chartreuse;
+    font-family: "Gotham", sans-serif;
+    font-size: 10rem;
+    padding-top: 0;
+}
