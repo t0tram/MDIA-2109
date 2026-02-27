@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: darkorange;
+    box-sizing: border-box;
+    margin-top: 0%;
+    color: rgb(230, 230, 230);
+    font-family: "Ubuntu", sans-serif;
+}
+h1,
+h2 {
+    font-size: 10rem;
+    padding-top: 0;
+    margin-bottom: 2rem;
+    margin-top: 0%;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 0.4rem;
+    text-underline-offset: 1rem;
+    color: chartreuse;
+}
+
+.action__plan__description {
+    margin-bottom: 2rem;
+}
+
+.image {
+    width: 25%;
+    height: auto;
+    padding-bottom: 1rem;
+}
+
+/* .danny__devito {
+    width: 25%;
+    height: auto;
+    padding-bottom: 1rem;
+} */
