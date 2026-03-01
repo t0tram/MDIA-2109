@@ -5,15 +5,16 @@
 ## **Athena Zhu**
 <img src="images/ath.jpeg" width="50%">
 ## **Carson Ferguson**
-![Carson Ferguson](images/carson.jpeg)
+<img src="images/carson.jpeg" width="50%">
 ## **Phillip Ho**
-![Phillip Ho](images/phil.jpeg)
+<img src="images/phil.jpeg" width="50%">
 ## **Nikka Adrias**
-![Nikka Adrias](images/nikka.jpeg)
+<img src="images/nikka.jpeg" width="50%">
 ## **Runn Keerativoranant**
-![Runn Keerativoranant](images/runn.jpeg)
+<img src="images/runn.jpeg" width="50%">
 ## **AND ME!**
-![AND me](images/tracy.jpeg)
+<img src="images/tracy.jpeg" width="50%">
+
 
 
 We are creating a 2D, 3/4 view pixel art, self-titled fishing game, **Fishtopia**!
