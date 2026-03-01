@@ -1,18 +1,20 @@
 # Fishtopia by Fishtopia.
 
 ## Game Team 01- **_Fishtopia_**
-![Athena Zhu](images/ath.jpeg)
+
 ## **Athena Zhu**
-![Carson Ferguson](images/carson.jpeg)
+![Athena Zhu](images/ath.jpeg)
 ## **Carson Ferguson**
-![Phillip Ho](images/phil.jpeg)
+![Carson Ferguson](images/carson.jpeg)
 ## **Phillip Ho**
-![Nikka Adrias](images/nikka.jpeg)
+![Phillip Ho](images/phil.jpeg)
 ## **Nikka Adrias**
-![Runn Keerativoranant](images/runn.jpeg)
+![Nikka Adrias](images/nikka.jpeg)
 ## **Runn Keerativoranant**
-![AND me](images/tracy.jpeg)
+![Runn Keerativoranant](images/runn.jpeg)
 ## **AND ME!**
+![AND me](images/tracy.jpeg)
+
 
 We are creating a 2D, 3/4 view pixel art, self-titled fishing game, **Fishtopia**!
 The game is set on an island inhibited by cats!! Imagine Stardew Valley, but every character expect the user are cats (because Carson really likes cats 🙄).
