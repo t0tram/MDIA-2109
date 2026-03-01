@@ -3,7 +3,7 @@
 ## Game Team 01- **_Fishtopia_**
 
 ## **Athena Zhu**
-![Athena Zhu](images/ath.jpeg)
+![Athena Zhu]<img src="images/ath.jpeg" width="120">
 ## **Carson Ferguson**
 ![Carson Ferguson](images/carson.jpeg)
 ## **Phillip Ho**
