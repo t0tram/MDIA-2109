@@ -1,7 +1,7 @@
 # Fishtopia by Fishtopia.
 
 ## Game Team 01- **_Fishtopia_**
-![Athena Zhu](images/ath.jpeg){width=50%}
+![Athena Zhu](images/ath.jpeg)
 ## **Athena Zhu**
 ![Carson Ferguson](images/carson.jpeg)
 ## **Carson Ferguson**
