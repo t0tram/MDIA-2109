@@ -4,14 +4,19 @@
 
 ## **Athena Zhu**
 <img src="images/ath.jpeg" width="50%">
+
 ## **Carson Ferguson**
 <img src="images/carson.jpeg" width="50%">
+
 ## **Phillip Ho**
 <img src="images/phil.jpeg" width="50%">
+
 ## **Nikka Adrias**
 <img src="images/nikka.jpeg" width="50%">
+
 ## **Runn Keerativoranant**
 <img src="images/runn.jpeg" width="50%">
+
 ## **AND ME!**
 <img src="images/tracy.jpeg" width="50%">
 
