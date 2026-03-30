@@ -30,4 +30,4 @@ The user will play as Finn, who visits the island to sell his late grandfathers 
 
 ## What I can do.
 
-The bulk of the work will be creating pixel art for the high-fi prototype. I will focus on helping my team create background assets for the game. Since we will not actually be coding the game my main focus will be sketching for the lo-fi prototype and creating pixel art assets for our high-fi prototype. 
+I will help my team code the HTML and CSS skeleton for our style guide website, implement responsive design so the site works on desktop and mobile and use GitHub.
